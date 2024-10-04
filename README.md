@@ -1,2 +1,5 @@
 # repositorio_example
- Clase 05
+ Clase#5
+ uxui-diseño
+ lewagon
+ 03-10-24
